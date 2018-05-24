@@ -8,8 +8,8 @@ image: ""
 x-kinRank: "8"
 x-alexaRank: ""
 tags: Adafruit Industries
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/adafruit-industries/master/_listings/adafruit-industries/apis.md
 specificationVersion: "0.14"
 apis: []
